@@ -5,7 +5,7 @@ Repository containing curriculum materials for the Social Identity Matters in Me
 ## Table of Contents
 * [Materials for participants taking the curriculum](#participants)
 * [Materials for facilitators leading the curriculum](#facilitators)
-* [Materials for training new facilitators](#train-the-trainers)
+* [Materials for training new facilitators](#facilitator-trainers)
 
 ## Participants
 
@@ -43,7 +43,7 @@ Repository containing curriculum materials for the Social Identity Matters in Me
 └── SIMI Facilitation Training - Zoom for SIMI Tutorial.pdf
 ```
 
-## Facilitator Training
+## Facilitator Trainers
 
 ### Folder Structure
 ```text
