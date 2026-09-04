@@ -67,6 +67,11 @@ This repository contains the curriculum materials for the Social Identity Matter
 ├── Zoom for SIMI Tutorial.docx
 └── Facilitator Training Blurb + High-Level Agenda.docx
 ```
+## Citation
+If you use these materials, please cite:
+
+Blanco, S., Garnica-Díaz, C., Puig-Lluch, M., Cabrera Salazar, N., Williams, M., Sigmon, B., Adams, C., & Baldrich, P. (in preparation). _Social identity matters in mentoring (SIMI Mentoring): A free online training for culturally responsive mentoring in the plant sciences._
+
 # A first-level heading
 
 ## A second-level heading
