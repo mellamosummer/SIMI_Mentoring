@@ -15,7 +15,7 @@ This repository contains the curriculum materials for the Social Identity Matter
 
 ### For _participants_
 
-This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined pdf of "one-pagers" is also made available for those interested in familiarizin themselves with the course materials in more detail.
+This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined PDF of "one-pagers" is also available for those interested in familiarizing themselves with the course materials in more detail.
 
 ```text
 ├── Session 1: Orientation/
