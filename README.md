@@ -31,6 +31,8 @@ This folder contains a syllabus for the course and folders with materials for ea
 
 ### For Facilitators
 
+This folder contains materials for... [coming soon].
+
 ```text
 ├── Session 1: Orientation/
 ├── Session 2: Identity and its Intersections/
@@ -42,7 +44,6 @@ This folder contains a syllabus for the course and folders with materials for ea
 ├── Facilitator Tips: Notes for All Sessions.pdf
 ├── Email templates.docx
 ├── Facilitator Notes.docx
-├── Facilitator Sign-Up Sheet.xlsx
 ├── SI-MI Course Syllabus.pdf
 ├── SI-MI Facilitator Guide.pdf
 ├── SI-MI Participants & Attendance.xlsx
@@ -50,6 +51,8 @@ This folder contains a syllabus for the course and folders with materials for ea
 ```
 
 ### For Facilitator Trainers
+
+This folder contains materials for... [coming soon].
 
 ```text
 ├── Facilitator Folder/
