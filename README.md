@@ -3,13 +3,20 @@
 This repository contains the curriculum materials for the Social Identity Matters in Mentoring training program developed by the ROOT & SHOOT RCN in 2026.
 
 ## Table of Contents
-* [Materials for participants taking the curriculum](#participants)
-* [Materials for facilitators leading the curriculum](#facilitators)
-* [Materials for training new facilitators](#facilitator-trainers)
+* [About the curriculum](#about-the-curriculum)
+* [Materials for participants taking the curriculum](#for-participants)
+* [Materials for facilitators leading the curriculum](#for-facilitators)
+* [Materials for training new facilitators](#for-facilitator-trainers)
+* [Citation](#citation)
 
-## Participants
+## About the curriculum
 
-### Folder Structure
+[coming soon]
+
+### For Participants
+
+This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined pdf of "one-pagers" is also made available for those interested in familiarizin themselves with the course materials in more detail.
+
 ```text
 ├── Session 1: Orientation/
 ├── Session 2: Identity and its Intersections/
@@ -22,9 +29,10 @@ This repository contains the curriculum materials for the Social Identity Matter
 └── Weekly One-Pagers (combined).pdf
 ```
 
-## Facilitators
+### For Facilitators
 
-### Folder Structure
+This folder contains materials for... [coming soon].
+
 ```text
 ├── Session 1: Orientation/
 ├── Session 2: Identity and its Intersections/
@@ -36,16 +44,16 @@ This repository contains the curriculum materials for the Social Identity Matter
 ├── Facilitator Tips: Notes for All Sessions.pdf
 ├── Email templates.docx
 ├── Facilitator Notes.docx
-├── Facilitator Sign-Up Sheet.xlsx
 ├── SI-MI Course Syllabus.pdf
 ├── SI-MI Facilitator Guide.pdf
 ├── SI-MI Participants & Attendance.xlsx
 └── SIMI Facilitation Training - Zoom for SIMI Tutorial.pdf
 ```
 
-## Facilitator Trainers
+### For Facilitator Trainers
 
-### Folder Structure
+This folder contains materials for... [coming soon].
+
 ```text
 ├── Facilitator Folder/
 │   ├── Session Agendas/
@@ -67,6 +75,11 @@ This repository contains the curriculum materials for the Social Identity Matter
 ├── Zoom for SIMI Tutorial.docx
 └── Facilitator Training Blurb + High-Level Agenda.docx
 ```
+## Citation
+If you use these materials, please cite:
+
+Blanco, S., Garnica-Díaz, C., Puig-Lluch, M., Cabrera Salazar, N., Williams, M., Sigmon, B., Adams, C., & Baldrich, P. (in preparation). _Social identity matters in mentoring (SIMI Mentoring): A free online training for culturally responsive mentoring in the plant sciences._
+
 # A first-level heading
 
 ## A second-level heading
