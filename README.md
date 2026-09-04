@@ -3,15 +3,20 @@
 This repository contains the curriculum materials for the Social Identity Matters in Mentoring training program developed by the ROOT & SHOOT RCN in 2026.
 
 ## Table of Contents
-* [Materials for participants taking the curriculum](#participants)
-* [Materials for facilitators leading the curriculum](#facilitators)
-* [Materials for training new facilitators](#facilitator-trainers)
+* [About the curriculum](#about-the-curriculum)
+* [Materials for participants taking the curriculum](#for-participants)
+* [Materials for facilitators leading the curriculum](#for-facilitators)
+* [Materials for training new facilitators](#for-facilitator-trainers)
+* [Citation](#citation)
 
-## Participants
+## About the curriculum
+
+[coming soon]
+
+### For Participants
 
 This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined pdf of "one-pagers" is also made available for those interested in familiarizin themselves with the course materials in more detail.
 
-### Folder Structure
 ```text
 ├── Session 1: Orientation/
 ├── Session 2: Identity and its Intersections/
@@ -24,9 +29,8 @@ This folder contains a syllabus for the course and folders with materials for ea
 └── Weekly One-Pagers (combined).pdf
 ```
 
-## Facilitators
+### For Facilitators
 
-### Folder Structure
 ```text
 ├── Session 1: Orientation/
 ├── Session 2: Identity and its Intersections/
@@ -45,9 +49,8 @@ This folder contains a syllabus for the course and folders with materials for ea
 └── SIMI Facilitation Training - Zoom for SIMI Tutorial.pdf
 ```
 
-## Facilitator Trainers
+### For Facilitator Trainers
 
-### Folder Structure
 ```text
 ├── Facilitator Folder/
 │   ├── Session Agendas/
