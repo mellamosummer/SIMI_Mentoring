@@ -4,9 +4,9 @@ This repository contains the curriculum materials for the Social Identity Matter
 
 ## Table of Contents
 * [About the curriculum](#about-the-curriculum)
-* [Materials for participants taking the curriculum](#for-participants)
-* [Materials for facilitators leading the curriculum](#for-facilitators)
-* [Materials for training new facilitators](#for-facilitator-trainers)
+* [Materials for **participants** taking the curriculum](#for-participants)
+* [Materials for **facilitators** leading the curriculum](#for-facilitators)
+* [Materials for **training new facilitators**](#for-facilitator-trainers)
 * [Citation](#citation)
 
 ## About the curriculum
