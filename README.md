@@ -11,26 +11,36 @@ Repository containing curriculum materials for the Social Identity Matters in Me
 
 ### Folder Structure
 ```text
-├── Session 1 Orientation/
-├── Session 2 Identity and its Intersections/
-├── Session 3 Engaging in Empathetic Conversations/
-├── Session 4 Racialized Experiences in STEM/
-├── Session 5 Color-Evasive Practices/
-├── Session 6 From Deficit to Asset-Based Mentoring/
-├── Session 7 Embodying Culturally Responsive Mentoring/
-├── SIMI Syllabus
-└── Weekly One-Pagers combined
+├── Session 1: Orientation/
+├── Session 2: Identity and its Intersections/
+├── Session 3: Engaging in Empathetic Conversations/
+├── Session 4: Racialized Experiences in STEM/
+├── Session 5: Color-Evasive Practices/
+├── Session 6: From Deficit to Asset-Based Mentoring/
+├── Session 7: Embodying Culturally Responsive Mentoring/
+├── SI-MI Course Syllabus.pdf
+└── Weekly One-Pagers (combined).pdf
 ```
 
 ## Facilitators
 
 ### Folder Structure
 ```text
-├── facilitator-materials/
-│   ├── session-guides/
-│   ├── slides/
-│   └── activity-instructions/
-└── README.md
+├── Session 1: Orientation/
+├── Session 2: Identity and its Intersections/
+├── Session 3: Engaging in Empathetic Conversations/
+├── Session 4: Racialized Experiences in STEM/
+├── Session 5: Color-Evasive Practices/
+├── Session 6: From Deficit to Asset-Based Mentoring/
+├── Session 7: Embodying Culturally Responsive Mentoring/
+├── Facilitator Tips: Notes for All Sessions.pdf
+├── Email templates.docx
+├── Facilitator Notes.docx
+├── Facilitator Sign-Up Sheet.xlsx
+├── SI-MI Course Syllabus.pdf
+├── SI-MI Facilitator Guide.pdf
+├── SI-MI Participants & Attendance.xlsx
+└── SIMI Facilitation Training - Zoom for SIMI Tutorial.pdf
 ```
 
 ## Facilitator Training
