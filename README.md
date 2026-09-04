@@ -47,11 +47,25 @@ Repository containing curriculum materials for the Social Identity Matters in Me
 
 ### Folder Structure
 ```text
-├── train-the-trainer/
-│   ├── onboarding-guide/
-│   ├── coaching-checklists/
-│   └── observation-forms/
-└── README.md
+├── Facilitator Folder/
+│   ├── Session Agendas/
+│   │   ├── Session 1: Intro.xlsx
+│   │   ├── Session 2: Zoom.xlsx
+│   │   ├── Session 3: Power.xlsx
+│   │   └── Session 4: Facilitation.xlsx
+├── Participant Folder/
+│   ├── Homework/
+│   │   ├── Day 2 Homework Assignment.docx
+│   │   ├── Day 2 Homework Signup Sheet.xlsx
+│   │   ├── Session 1 Facilitator Guide: Orientation.docx
+│   │   ├── Session 2 Facilitator Guide: Identity and its Intersections.docx
+│   │   ├── Session 3 Facilitator Guide: Engaging in Empathic Conversations.docx
+│   │   ├── Session 4 Facilitator Guide: Racialized Experiences in STEM.docx
+│   │   ├── Session 5 Facilitator Guide: Color-Evasive Practices.docx
+│   │   └── Session 6 Facilitator Guide: From Deficit to Asset-Based Mentoring.docx
+│   └── Zoom for SIMI Tutorial.pdf
+├── Zoom for SIMI Tutorial.docx
+└── Facilitator Training Blurb + High-Level Agenda.docx
 ```
 # A first-level heading
 
