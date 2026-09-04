@@ -1,55 +1,44 @@
 # SIMI_Mentoring
-Repository containing curriculum materials for the Social Identity Matters in Mentoring training program developed by ROOT &amp; SHOOT in 2026.
 
+Repository containing curriculum materials for the Social Identity Matters in Mentoring training program, developed by ROOT & SHOOT in 2026.
+
+## Table of Contents
+* [Materials for participants taking the curriculum](#materials-for-participants-taking-the-curriculum)
+* [Materials for facilitators leading the curriculum](#materials-for-facilitators-leading-the-curriculum)
+* [Materials for training new facilitators](#materials-for-training-new-facilitators)
 
 ## Materials for participants taking the curriculum
 
 ### Folder Structure
-
 ```text
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   └── Footer.js
-│   ├── assets/
-│   └── App.js
-├── public/
-├── package.json
+├── participant-materials/
+│   ├── handouts/
+│   ├── worksheets/
+│   └── readings/
 └── README.md
 ```
 
 ## Materials for facilitators leading the curriculum
 
 ### Folder Structure
-
 ```text
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   └── Footer.js
-│   ├── assets/
-│   └── App.js
-├── public/
-├── package.json
+├── facilitator-materials/
+│   ├── session-guides/
+│   ├── slides/
+│   └── activity-instructions/
 └── README.md
 ```
 
 ## Materials for training new facilitators
 
 ### Folder Structure
-
 ```text
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   └── Footer.js
-│   ├── assets/
-│   └── App.js
-├── public/
-├── package.json
+├── train-the-trainer/
+│   ├── onboarding-guide/
+│   ├── coaching-checklists/
+│   └── observation-forms/
 └── README.md
 ```
-
 # A first-level heading
 
 ## A second-level heading
