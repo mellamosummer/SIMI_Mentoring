@@ -1,6 +1,59 @@
 # SIMI_Mentoring
 Repository containing curriculum materials for the Social Identity Matters in Mentoring training program developed by ROOT &amp; SHOOT in 2026.
 
+
+## Materials for participants taking the curriculum
+
+### Folder Structure
+
+```text
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   └── Footer.js
+│   ├── assets/
+│   └── App.js
+├── public/
+├── package.json
+└── README.md
+```
+
+## Materials for facilitators leading the curriculum
+
+### Folder Structure
+
+```text
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   └── Footer.js
+│   ├── assets/
+│   └── App.js
+├── public/
+├── package.json
+└── README.md
+```
+
+## Materials for training new facilitators
+
+### Folder Structure
+
+```text
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   └── Footer.js
+│   ├── assets/
+│   └── App.js
+├── public/
+├── package.json
+└── README.md
+```
+
+# A first-level heading
+
+## A second-level heading
+
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
