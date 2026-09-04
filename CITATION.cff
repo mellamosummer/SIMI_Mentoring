@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use any of the materials, please cite it as below. Blanco, Cabrera Salazar, Puig-Lluch, Garnica-Díaz, Sigmon, Williams, and Adams contributed equally to this work."
+authors:
+  - given-names: Summer
+    family-names: Blanco
+  - given-names: Nicole
+    family-names: Cabrera Salazar
+  - given-names: Marcia
+    family-names: Puig-Lluch
+  - given-names: Claudia
+    family-names: Garnica-Díaz
+  - given-names: Brandi
+    family-names: Sigmon
+  - given-names: Mary
+    family-names: Williams
+  - given-names: Catrina
+    family-names: Adams
+  - given-names: Patricia
+    family-names: Baldrich
+title: "Social Identity Matters in Mentoring (SIMI Mentoring): A Free Online Training for Culturally Responsive Mentoring in the Plant Sciences"
+version: "1.0"
+date-released: 2026-09-04
