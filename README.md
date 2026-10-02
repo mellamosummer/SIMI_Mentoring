@@ -80,6 +80,15 @@ If you use these materials, please cite:
 
 Blanco, S., Garnica-Díaz, C., Puig-Lluch, M., Cabrera Salazar, N., Williams, M., Sigmon, B., Adams, C., & Baldrich, P. (in preparation). _Social identity matters in mentoring (SIMI Mentoring): A free online training for culturally responsive mentoring in the plant sciences._
 
+
+## Creative Commons licensing
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only if attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under the same or a compatible license. CC BY-NC-SA includes the following elements:
+BY -- Credit must be given to you, the creator.
+NC -- Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
+SA -- Adaptations must be shared under the same terms.
+![alt text](https://github.com/mellamosummer/SIMI_Mentoring/blob/main/CC_Simi.svg "CC License")
+
+
 # A first-level heading
 
 ## A second-level heading
