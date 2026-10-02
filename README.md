@@ -4,18 +4,18 @@ This repository contains the curriculum materials for the Social Identity Matter
 
 ## Table of Contents
 * [About the curriculum](#about-the-curriculum)
-* [Materials for participants taking the curriculum](#for-participants)
-* [Materials for facilitators leading the curriculum](#for-facilitators)
-* [Materials for training new facilitators](#for-facilitator-trainers)
+* [Materials for **participants** taking the curriculum](#for-participants)
+* [Materials for **facilitators** leading the curriculum](#for-facilitators)
+* [Materials for **training new facilitators**](#for-facilitator-trainers)
 * [Citation](#citation)
 
 ## About the curriculum
 
 [coming soon]
 
-### For Participants
+### For _participants_
 
-This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined pdf of "one-pagers" is also made available for those interested in familiarizin themselves with the course materials in more detail.
+This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined PDF of "one-pagers" is also available for those interested in familiarizing themselves with the course materials in more detail.
 
 ```text
 ├── Session 1: Orientation/
@@ -29,7 +29,7 @@ This folder contains a syllabus for the course and folders with materials for ea
 └── Weekly One-Pagers (combined).pdf
 ```
 
-### For Facilitators
+### For _facilitators_
 
 This folder contains materials for... [coming soon].
 
@@ -50,7 +50,7 @@ This folder contains materials for... [coming soon].
 └── SIMI Facilitation Training - Zoom for SIMI Tutorial.pdf
 ```
 
-### For Facilitator Trainers
+### For _facilitator trainers_
 
 This folder contains materials for... [coming soon].
 
