@@ -93,8 +93,3 @@ BY: Credit must be given to you, the creator.
 NC: Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
 
 SA: Adaptations must be shared under the same terms.
-This is a <sub>subscript</sub> text
-
-This is a <sup>superscript</sup> text
-
-This is an <ins>underlined</ins> text
