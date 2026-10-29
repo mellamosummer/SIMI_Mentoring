@@ -2,6 +2,7 @@
 
 This repository contains the curriculum materials for the Social Identity Matters in Mentoring training program developed by the ROOT & SHOOT RCN in 2026.
 
+
 ## Table of Contents
 * [About the curriculum](#about-the-curriculum)
 * [Materials for **participants** taking the curriculum](#for-participants)
@@ -11,7 +12,7 @@ This repository contains the curriculum materials for the Social Identity Matter
 
 ## About the curriculum
 
-[coming soon]
+![alt text](https://github.com/mellamosummer/SIMI_Mentoring/blob/main/Course_Overview_Image.png)
 
 ### For _participants_
 
@@ -92,31 +93,3 @@ BY: Credit must be given to you, the creator.
 NC: Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
 
 SA: Adaptations must be shared under the same terms.
-
-
-
-# A first-level heading
-
-## A second-level heading
-
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
-Style	Syntax
-
-**This is bold text**
-
-_This text is italicized_
-
-~~This was mistaken text~~
-
-Bold and nested italic	**This text is _extremely_ important**
-
-All bold & italicized ***All this text is important***
-
-This is a <sub>subscript</sub> text
-
-This is a <sup>superscript</sup> text
-
-This is an <ins>underlined</ins> text
