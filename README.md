@@ -33,7 +33,7 @@ For_Program_Participants/
     └── Session 7: Embodying Culturally Responsive Mentoring/
 ```
 
-### For program_facilitators_
+### For program _facilitators_
 
 This folder contains materials for facilitating the program, including **surveys**: .pdf versions of course pre- and post-surveys and post-session feedback surveys for sessions 1-6, **attendance**: template for facilitators to sign up for particular sessions, and a template for tracking participant attendance, **email-templates**: e-mail templates for communicating with participants, **overview**: a facilitator guide that provides an overview of the course, expectations for facilitators, and instructions for facilitating the course, **syllabus**: a syllabus to be updated with dates, times, and zoom links for the course, and **weekly_facilitation_guides**: includes detailed session-by-session guides for facilitators as well as notes and tips from past facilitators.
 
