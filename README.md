@@ -20,6 +20,7 @@ Volunteers from across the Plant Sciences have worked together to develop an onl
 This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined PDF of "one-pagers" is also available for those interested in familiarizing themselves with the course materials in more detail.
 
 ```text
+For_Program_Participants/
 ├── Syllabus/
 │   └── SI-MI Course Syllabus
 └── Weekly_Materials/
