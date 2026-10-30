@@ -20,7 +20,7 @@ This folder contains a syllabus for the course and folders with materials for ea
 
 ```text
 ├── Syllabus/
-│   └── SI-MI Course Syllabus.pdf
+│   └── SI-MI Course Syllabus
 └── Weekly_Materials/
     ├── Session 1: Orientation/
     ├── Session 2: Identity and its Intersections/
