@@ -39,34 +39,24 @@ This folder contains materials for facilitating the program, including **surveys
 ```text
 For_Program_Facilitators/
 ├── Attendance/
-│   ├── SIMI_Facilitator Sign-Up Sheet_.xlsx
-│   └── SIMI_SI-MI Participants & Attendance_.xlsx
+│   ├── Facilitator Sign-Up Sheet
+│   └── Participants & Attendance 
 ├── Email_templates/
-│   └── SIMI_Email templates_.docx
+│   └── Email templates
 ├── Overview/
-│   └── SIMI_SI-MI Facilitator Guide_.docx
+│   └── Facilitator Guide
 ├── Syllabus/
-│   └── SIMI_SI-MI Syllabus.docx
+│   └── SI-MI Course Syllabus
 └── Weekly_Facilitation_Guides/
     ├── Facilitator Tips_ Notes for All Sessions.pdf
-    ├── Session_1/
-    │   ├── Participant Introductions.docx
-    │   └── SI-MI Facilitation Guide (Session 1)_ Orientation_.docx
-    ├── Session_2/
-    │   └── SI-MI Facilitation Guide (Session 2)_ Identity and its Intersections_.docx
-    ├── Session_3/
-    │   └── SI-MI Facilitation Guide (Session 3)_...ing in Empathic Conversations_.docx
-    ├── Session_4/
-    │   └── SI-MI Facilitation Guide (Session 4)_ Racialized Experiences in STEM_.docx
-    ├── Session_5/
-    │   ├── Color Evasiveness and Systemic Racism Statements.pdf
-    │   └── SI-MI Facilitation Guide (Session 5)_ Color-Evasive Practices.docx
-    ├── Session_6/
-    │   └── SI-MI Facilitation Guide (Session 6)_...ficit to Asset-Based Mentoring_.docx
-    ├── Session_7/
-    │   ├── Session 7 Pre-Work Sign-Up_.xlsx
-    │   └── SI-MI Facilitation Guide (Session 7)_...lturally Responsive Mentorship_.docx
-    └── SIMI_Facilitator Notes_.docx
+    ├── Session 1: Orientation/
+    ├── Session 2: Identity and its Intersections/
+    ├── Session 3: Engaging in Empathetic Conversations/
+    ├── Session 4: Racialized Experiences in STEM/
+    ├── Session 5: Color-Evasive Practices/
+    ├── Session 6: From Deficit to Asset-Based Mentoring/
+    ├── Session 7: Embodying Culturally Responsive Mentoring/
+    └── Facilitator Notes
 ```
 
 ### For _facilitator trainers_
