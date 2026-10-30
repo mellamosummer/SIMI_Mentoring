@@ -59,7 +59,7 @@ This folder contains materials for... [coming soon].
 
 ### For _facilitator trainers_
 
-This folder contains materials for... [coming soon].
+This folder contains agendas for the four individual sessions for training new SI-MI facilitators. The participant folder contains individual session guides, homework, and sign-up sheets for facilitator training session participants.
 
 ```text
 ├── Facilitator Folder/
