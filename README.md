@@ -36,19 +36,25 @@ This folder contains a syllabus for the course and folders with materials for ea
 This folder contains materials for... [coming soon].
 
 ```text
-├── Session 1: Orientation/
-├── Session 2: Identity and its Intersections/
-├── Session 3: Engaging in Empathetic Conversations/
-├── Session 4: Racialized Experiences in STEM/
-├── Session 5: Color-Evasive Practices/
-├── Session 6: From Deficit to Asset-Based Mentoring/
-├── Session 7: Embodying Culturally Responsive Mentoring/
-├── Facilitator Tips: Notes for All Sessions.pdf
-├── Email templates.docx
-├── Facilitator Notes.docx
-├── SI-MI Course Syllabus.pdf
-├── SI-MI Facilitator Guide.pdf
-├── SI-MI Participants & Attendance.xlsx
+── Attendance/
+│   └── SI-MI Participants & Attendance.xlsx
+├── Email_templates/
+│   └── Email templates.docx
+├── Overview/
+│   ├── SI-MI Facilitator Guide.pdf
+│   ├── Facilitator Notes.docx
+│   ├── Facilitator Tips: Notes for All Sessions.pdf
+│   └── SIMI Facilitation Training - Zoom for SIMI Tutorial.pdf
+├── Syllabus/
+│   └── SI-MI Course Syllabus.pdf
+└── Weekly_Facilitation_Guides/
+    ├── Session 1: Orientation/
+    ├── Session 2: Identity and its Intersections/
+    ├── Session 3: Engaging in Empathetic Conversations/
+    ├── Session 4: Racialized Experiences in STEM/
+    ├── Session 5: Color-Evasive Practices/
+    ├── Session 6: From Deficit to Asset-Based Mentoring/
+    └── Session 7: Embodying Culturally Responsive Mentoring/
 ```
 
 ### For _facilitator trainers_
