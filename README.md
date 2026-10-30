@@ -1,6 +1,6 @@
 # SIMI_Mentoring
 
-This repository contains the curriculum materials for the Social Identity Matters in Mentoring training program developed by the ROOT & SHOOT RCN in 2026.
+This repository contains the curriculum materials for the Social Identity Matters in Mentoring program developed by the ROOT & SHOOT RCN in 2026.
 
 
 ## Table of Contents
