@@ -15,7 +15,7 @@ Volunteers from across the Plant Sciences have worked together to develop an onl
 
 ![alt text](https://github.com/mellamosummer/SIMI_Mentoring/blob/main/Course_Overview_Image.png)
 
-### For _participants_
+### For program _participants_
 
 This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined PDF of "one-pagers" is also available for those interested in familiarizing themselves with the course materials in more detail.
 
@@ -33,7 +33,7 @@ For_Program_Participants/
     └── Session 7: Embodying Culturally Responsive Mentoring/
 ```
 
-### For _facilitators_
+### For program_facilitators_
 
 This folder contains materials for facilitating the program, including **surveys**: .pdf versions of course pre- and post-surveys and post-session feedback surveys for sessions 1-6, **attendance**: template for facilitators to sign up for particular sessions, and a template for tracking participant attendance, **email-templates**: e-mail templates for communicating with participants, **overview**: a facilitator guide that provides an overview of the course, expectations for facilitators, and instructions for facilitating the course, **syllabus**: a syllabus to be updated with dates, times, and zoom links for the course, and **weekly_facilitation_guides**: includes detailed session-by-session guides for facilitators as well as notes and tips from past facilitators.
 
@@ -65,7 +65,7 @@ For_Program_Facilitators/
     └── Facilitator Notes
 ```
 
-### For _facilitator trainers_
+### For training _SIMI facilitator_
 
 This folder contains agendas for the four individual sessions for training new SI-MI facilitators. The participant folder contains individual session guides, homework, and sign-up sheets for facilitator training session participants.
 
