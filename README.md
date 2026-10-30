@@ -93,7 +93,7 @@ For_Training_SIMI_Facilitators/
 ## Citation
 If you use these materials, please cite:
 
-Summer Blanco, Nicole Cabrera Salazar, Marcia Puig-Lluch, Claudia Garnica Díaz (Check for first authorship), Mary Williams, Brandi Sigmon, Catrina Adams, Patricia Baldrich González, Ian Gilman, Anastazija Dimitrova, Melissa McDaniels, Stephanie House, Abigayl Novak, Cael Dant, Jessica Szetela, Jordan Argrett, Mary Lai Preuss, Mikhaela Neequaye, Silvia Manrique Urpí, María José Román, Andrea N Romero, Nicola Trozzi, Shiqi Zhang, Elizabeth Siaw Hui Ying, Kevin R. Cope, Alicja Barbara Kunkowska, Emeline Pano, Marge Angela Poma Alarcon, Lukas Magee, Jesica Pérez Sancho, Guadalupe Maldonado Andrade, Tessa Durham Brooks. (in preparation). _Social identity matters in mentoring (SIMI Mentoring): A free online training for culturally responsive mentoring in the plant sciences._
+Summer Blanco, Nicole Cabrera Salazar, Marcia Puig-Lluch, Claudia J. Garnica Díaz, Mary Williams, Brandi Sigmon, Patricia Baldrich González, Catrina Adams, Ian Gilman, Melissa McDaniels, Stephanie House, Anastazija Dimitrova, Abigayl Novak, Cael Dant, Jessica Szetela, Jordan Argrett, Mary Lai Preuss, Mikhaela Neequaye, Caitlyn Joyce Elliott, Janet K. Mansaray, Jay Goldberg, Julianna J. Harden, Renee Petipas, Chelsea (Theo) Newbold, Silvia Manrique Urpí, María José Román, Andrea N Romero, Nicola Trozzi, Shiqi Zhang, Elizabeth Siaw Hui Ying, Kevin R. Cope, Alicja Barbara Kunkowska, Emeline Pano, Marge Angela Poma Alarcon, Lukas Magee, Jesica Pérez Sancho, Guadalupe Maldonado Andrade, Tessa Durham Brooks. (in preparation). _Social identity matters in mentoring (SIMI Mentoring): A free online training for culturally responsive mentoring in the plant sciences._
 
 
 ## Creative Commons licensing
