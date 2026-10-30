@@ -63,12 +63,13 @@ This folder contains materials for... [coming soon].
 This folder contains agendas for the four individual sessions for training new SI-MI facilitators. The participant folder contains individual session guides, homework, and sign-up sheets for facilitator training session participants.
 
 ```text
+For_Training_SIMI_Facilitators/
 ├── Facilitator Folder/
-│   ├── Session Agendas/
-│   │   ├── Session 1: Intro.xlsx
-│   │   ├── Session 2: Zoom.xlsx
-│   │   ├── Session 3: Power.xlsx
-│   │   └── Session 4: Facilitation.xlsx
+│   └── Session Agendas/
+│       ├── Session 1: Intro.xlsx
+│       ├── Session 2: Zoom.xlsx
+│       ├── Session 3: Power.xlsx
+│       └── Session 4: Facilitation.xlsx
 ├── Participant Folder/
 │   ├── Homework/
 │   │   ├── Day 2 Homework Assignment.docx
