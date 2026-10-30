@@ -49,7 +49,6 @@ This folder contains materials for... [coming soon].
 ├── SI-MI Course Syllabus.pdf
 ├── SI-MI Facilitator Guide.pdf
 ├── SI-MI Participants & Attendance.xlsx
-└── SIMI Facilitation Training - Zoom for SIMI Tutorial.pdf
 ```
 
 ### For _facilitator trainers_
