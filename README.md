@@ -64,7 +64,7 @@ For_Program_Facilitators/
     └── Facilitator Notes
 ```
 
-### For training _SIMI facilitators_
+### For _training SIMI facilitators_
 
 This folder contains agendas for the four individual sessions for training new SI-MI facilitators. The participant folder contains individual session guides, homework, and sign-up sheets for facilitator training session participants.
 
