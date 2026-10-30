@@ -2,7 +2,6 @@
 
 This repository contains the curriculum materials for the Social Identity Matters in Mentoring program developed by the ROOT & SHOOT RCN in 2026.
 
-
 ## Table of Contents
 * [About the curriculum](#about-the-curriculum)
 * [Materials for **participants** taking the curriculum](#for-participants)
@@ -14,13 +13,6 @@ This repository contains the curriculum materials for the Social Identity Matter
 Volunteers from across the Plant Sciences have worked together to develop an online cohort-based course designed to cultivate culturally sustaining mentoring practices in the Plant Sciences, the Social Identity Matters in Mentoring Program (SIMI Mentoring). The seven-module SIMI mentoring curriculum includes self-reflection activities, realistic case studies, and facilitated group discussions that support mentors at all stages in critically examining their mentoring practices. Here we present materials for use by course facilitators and course participants to guide them through the seven-week course. In addition to the full SIMI curriculum, we provide materials necessary to train facilitators. We offer this curriculum not only as a practical resource but as a model for disciplinary societies seeking to lead community-engaged equity efforts.
 
 ![alt text](https://github.com/mellamosummer/SIMI_Mentoring/blob/main/Course_Overview_Image.png)
-
-## How to download the SIMI Mentoring Materials
-
-To download **all of the materials** to your local Desktop, you can click "Code" > "Download Zip" at the top of this page.
-
-To download **a single folder** from the repo, you can visit: https://download-directory.github.io/ and enter the link to the folder (e.g., https://github.com/mellamosummer/SIMI_Mentoring/tree/main/For_Program_Participants) to download the materials in zip file format.
-
 
 ### For program _participants_
 
@@ -97,6 +89,12 @@ For_Training_SIMI_Facilitators/
         ├── Session 5 Facilitator Guide: Color-Evasive Practices
         └── Session 6 Facilitator Guide: From Deficit to Asset-Based Mentoring
 ```
+## How to download the SIMI Mentoring Materials
+
+To download **all of the materials** to your local Desktop, you can click "Code" > "Download Zip" at the top of this page.
+
+To download **a single folder** from the repo, you can visit: https://download-directory.github.io/ and enter the link to the folder (e.g., https://github.com/mellamosummer/SIMI_Mentoring/tree/main/For_Program_Participants) to download the materials in zip file format.
+
 ## Citation
 If you use these materials, please cite:
 
