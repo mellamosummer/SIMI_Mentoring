@@ -95,6 +95,15 @@ To download **all of the materials** to your local Desktop, you can click "Code"
 
 To download **a single folder** from the repo, you can visit: https://download-directory.github.io/ and enter the link to the folder (e.g., https://github.com/mellamosummer/SIMI_Mentoring/tree/main/For_Program_Participants) to download the materials in zip file format.
 
+## Contact
+
+For help with the curriculum materials, you can reach out to:
+
+- **Summer Blanco**, Field Museum of Natural History: [sblanco@fieldmuseum.org](mailto:sblanco@fieldmuseum.org)
+- **Nicole Cabrera Salazar**, Movement Consulting: [ncs@wearemvmt.com](mailto:ncs@wearemvmt.com)
+
+You can also [open an issue](../../issues) in this repository.
+
 ## Citation
 If you use these materials, please cite:
 
