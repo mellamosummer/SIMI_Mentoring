@@ -46,6 +46,11 @@ For_Program_Facilitators/
 │   └── Email templates
 ├── Overview/
 │   └── Facilitator Guide
+├── Surveys/
+│   ├── Template SIMI Intake Form
+│   ├── Template SIMI Mentoring
+│   ├── Template SIMI Post-Assessment
+│   └── Template SIMI Pre-Assessment
 ├── Syllabus/
 │   └── SI-MI Course Syllabus
 └── Weekly_Facilitation_Guides/
