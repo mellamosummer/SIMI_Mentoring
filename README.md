@@ -89,11 +89,16 @@ For_Training_SIMI_Facilitators/
         ├── Session 5 Facilitator Guide: Color-Evasive Practices
         └── Session 6 Facilitator Guide: From Deficit to Asset-Based Mentoring
 ```
-## How to download the SIMI Mentoring Materials
+## Downloading the Materials
 
-To download **all of the materials** to your local Desktop, you can click "Code" > "Download Zip" at the top of this page.
+**To download everything:**
+Click **Code** > **Download ZIP** at the top of this page. The files will download to your computer as a zip archive.
 
-To download **a single folder** from the repo, you can visit: https://download-directory.github.io/ and enter the link to the folder (e.g., https://github.com/mellamosummer/SIMI_Mentoring/tree/main/For_Program_Participants) to download the materials in zip file format.
+**To download a single folder:**
+1. Go to [download-directory.github.io](https://download-directory.github.io/).
+2. Paste in the link to the folder you want, for example:
+   `https://github.com/mellamosummer/SIMI_Mentoring/tree/main/For_Program_Participants`
+3. Download the resulting zip file.
 
 ## Contact
 
