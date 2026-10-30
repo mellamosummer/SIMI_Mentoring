@@ -19,15 +19,16 @@ This repository contains the curriculum materials for the Social Identity Matter
 This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials. A combined PDF of "one-pagers" is also available for those interested in familiarizing themselves with the course materials in more detail.
 
 ```text
-├── Session 1: Orientation/
-├── Session 2: Identity and its Intersections/
-├── Session 3: Engaging in Empathetic Conversations/
-├── Session 4: Racialized Experiences in STEM/
-├── Session 5: Color-Evasive Practices/
-├── Session 6: From Deficit to Asset-Based Mentoring/
-├── Session 7: Embodying Culturally Responsive Mentoring/
-├── SI-MI Course Syllabus.pdf
-└── Weekly One-Pagers (combined).pdf
+├── Syllabus/
+│   └── SI-MI Course Syllabus.pdf
+└── Weekly_Materials/
+    ├── Session 1: Orientation/
+    ├── Session 2: Identity and its Intersections/
+    ├── Session 3: Engaging in Empathetic Conversations/
+    ├── Session 4: Racialized Experiences in STEM/
+    ├── Session 5: Color-Evasive Practices/
+    ├── Session 6: From Deficit to Asset-Based Mentoring/
+    └── Session 7: Embodying Culturally Responsive Mentoring/
 ```
 
 ### For _facilitators_
