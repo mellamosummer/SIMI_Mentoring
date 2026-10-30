@@ -11,6 +11,7 @@ This repository contains the curriculum materials for the Social Identity Matter
 * [Citation](#citation)
 
 ## About the curriculum
+Volunteers from across the Plant Sciences have worked together to develop an online cohort-based course designed to cultivate culturally sustaining mentoring practices in the Plant Sciences, the Social Identity Matters in Mentoring Program (SIMI Mentoring). The seven-module SIMI mentoring curriculum includes self-reflection activities, realistic case studies, and facilitated group discussions that support mentors at all stages in critically examining their mentoring practices. Here we present materials for use by course facilitators and course participants to guide them through the seven-week course. In addition to the full SIMI curriculum, we provide materials necessary to train facilitators. We offer this curriculum not only as a practical resource but as a model for disciplinary societies seeking to lead community-engaged equity efforts.
 
 ![alt text](https://github.com/mellamosummer/SIMI_Mentoring/blob/main/Course_Overview_Image.png)
 
