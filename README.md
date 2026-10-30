@@ -34,28 +34,39 @@ This folder contains a syllabus for the course and folders with materials for ea
 
 ### For _facilitators_
 
-This folder contains materials for... [coming soon].
+This folder contains materials for facilitating the program, including **surveys**: .pdf versions of course pre- and post-surveys and post-session feedback surveys for sessions 1-6, **attendance**: template for facilitators to sign up for particular sessions, and a template for tracking participant attendance, **email-templates**: e-mail templates for communicating with participants, **overview**: a facilitator guide that provides an overview of the course, expectations for facilitators, and instructions for facilitating the course, **syllabus**: a syllabus to be updated with dates, times, and zoom links for the course, and **weekly_facilitation_guides**: includes detailed session-by-session guides for facilitators as well as notes and tips from past facilitators.
 
 ```text
-── Attendance/
-│   └── SI-MI Participants & Attendance.xlsx
+For_Program_Facilitators/
+├── Attendance/
+│   ├── SIMI_Facilitator Sign-Up Sheet_.xlsx
+│   └── SIMI_SI-MI Participants & Attendance_.xlsx
 ├── Email_templates/
-│   └── Email templates.docx
+│   └── SIMI_Email templates_.docx
 ├── Overview/
-│   ├── SI-MI Facilitator Guide.pdf
-│   ├── Facilitator Notes.docx
-│   ├── Facilitator Tips: Notes for All Sessions.pdf
-│   └── SIMI Facilitation Training - Zoom for SIMI Tutorial.pdf
+│   └── SIMI_SI-MI Facilitator Guide_.docx
 ├── Syllabus/
-│   └── SI-MI Course Syllabus.pdf
+│   └── SIMI_SI-MI Syllabus.docx
 └── Weekly_Facilitation_Guides/
-    ├── Session 1: Orientation/
-    ├── Session 2: Identity and its Intersections/
-    ├── Session 3: Engaging in Empathetic Conversations/
-    ├── Session 4: Racialized Experiences in STEM/
-    ├── Session 5: Color-Evasive Practices/
-    ├── Session 6: From Deficit to Asset-Based Mentoring/
-    └── Session 7: Embodying Culturally Responsive Mentoring/
+    ├── Facilitator Tips_ Notes for All Sessions.pdf
+    ├── Session_1/
+    │   ├── Participant Introductions.docx
+    │   └── SI-MI Facilitation Guide (Session 1)_ Orientation_.docx
+    ├── Session_2/
+    │   └── SI-MI Facilitation Guide (Session 2)_ Identity and its Intersections_.docx
+    ├── Session_3/
+    │   └── SI-MI Facilitation Guide (Session 3)_...ing in Empathic Conversations_.docx
+    ├── Session_4/
+    │   └── SI-MI Facilitation Guide (Session 4)_ Racialized Experiences in STEM_.docx
+    ├── Session_5/
+    │   ├── Color Evasiveness and Systemic Racism Statements.pdf
+    │   └── SI-MI Facilitation Guide (Session 5)_ Color-Evasive Practices.docx
+    ├── Session_6/
+    │   └── SI-MI Facilitation Guide (Session 6)_...ficit to Asset-Based Mentoring_.docx
+    ├── Session_7/
+    │   ├── Session 7 Pre-Work Sign-Up_.xlsx
+    │   └── SI-MI Facilitation Guide (Session 7)_...lturally Responsive Mentorship_.docx
+    └── SIMI_Facilitator Notes_.docx
 ```
 
 ### For _facilitator trainers_
@@ -64,25 +75,24 @@ This folder contains agendas for the four individual sessions for training new S
 
 ```text
 For_Training_SIMI_Facilitators/
+├── Zoom for SIMI Tutorial.docx
+├── Facilitator Training Blurb + High-Level Agenda.docx
 ├── Facilitator Folder/
 │   └── Session Agendas/
 │       ├── Session 1: Intro.xlsx
 │       ├── Session 2: Zoom.xlsx
 │       ├── Session 3: Power.xlsx
 │       └── Session 4: Facilitation.xlsx
-├── Participant Folder/
-│   ├── Homework/
-│   │   ├── Day 2 Homework Assignment.docx
-│   │   ├── Day 2 Homework Signup Sheet.xlsx
-│   │   ├── Session 1 Facilitator Guide: Orientation.docx
-│   │   ├── Session 2 Facilitator Guide: Identity and its Intersections.docx
-│   │   ├── Session 3 Facilitator Guide: Engaging in Empathic Conversations.docx
-│   │   ├── Session 4 Facilitator Guide: Racialized Experiences in STEM.docx
-│   │   ├── Session 5 Facilitator Guide: Color-Evasive Practices.docx
-│   │   └── Session 6 Facilitator Guide: From Deficit to Asset-Based Mentoring.docx
-│   └── Zoom for SIMI Tutorial.pdf
-├── Zoom for SIMI Tutorial.docx
-└── Facilitator Training Blurb + High-Level Agenda.docx
+└── Participant Folder/
+    └── Homework/
+        ├── Day 2 Homework Assignment.docx
+        ├── Day 2 Homework Signup Sheet.xlsx
+        ├── Session 1 Facilitator Guide: Orientation.docx
+        ├── Session 2 Facilitator Guide: Identity and its Intersections.docx
+        ├── Session 3 Facilitator Guide: Engaging in Empathic Conversations.docx
+        ├── Session 4 Facilitator Guide: Racialized Experiences in STEM.docx
+        ├── Session 5 Facilitator Guide: Color-Evasive Practices.docx
+        └── Session 6 Facilitator Guide: From Deficit to Asset-Based Mentoring.docx
 ```
 ## Citation
 If you use these materials, please cite:
