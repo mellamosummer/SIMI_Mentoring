@@ -87,13 +87,10 @@ For_Training_SIMI_Facilitators/
 ## Citation
 If you use these materials, please cite:
 
-Blanco, S., Garnica-Díaz, C., Puig-Lluch, M., Cabrera Salazar, N., Williams, M., Sigmon, B., Adams, C., & Baldrich, P. (in preparation). _Social identity matters in mentoring (SIMI Mentoring): A free online training for culturally responsive mentoring in the plant sciences._
+Summer Blanco, Nicole Cabrera Salazar, Marcia Puig-Lluch, Claudia Garnica Díaz (Check for first authorship), Mary Williams, Brandi Sigmon, Catrina Adams, Patricia Baldrich González, Ian Gilman, Anastazija Dimitrova, Melissa McDaniels, Stephanie House, Abigayl Novak, Cael Dant, Jessica Szetela, Jordan Argrett, Mary Lai Preuss, Mikhaela Neequaye, Silvia Manrique Urpí, María José Román, Andrea N Romero, Nicola Trozzi, Shiqi Zhang, Elizabeth Siaw Hui Ying, Kevin R. Cope, Alicja Barbara Kunkowska, Emeline Pano, Marge Angela Poma Alarcon, Lukas Magee, Jesica Pérez Sancho, Guadalupe Maldonado Andrade, Tessa Durham Brooks. (in preparation). _Social identity matters in mentoring (SIMI Mentoring): A free online training for culturally responsive mentoring in the plant sciences._
 
 
 ## Creative Commons licensing
-
-![alt text](https://github.com/mellamosummer/SIMI_Mentoring/blob/main/CC_Simi.svg "CC License")
-
 This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only if attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under the same or a compatible license. CC BY-NC-SA includes the following elements:
 
 BY: Credit must be given to you, the creator.
@@ -101,3 +98,5 @@ BY: Credit must be given to you, the creator.
 NC: Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
 
 SA: Adaptations must be shared under the same terms.
+
+![alt text](https://github.com/mellamosummer/SIMI_Mentoring/blob/main/CC_Simi.svg "CC License")
