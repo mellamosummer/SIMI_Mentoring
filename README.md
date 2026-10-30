@@ -15,6 +15,13 @@ Volunteers from across the Plant Sciences have worked together to develop an onl
 
 ![alt text](https://github.com/mellamosummer/SIMI_Mentoring/blob/main/Course_Overview_Image.png)
 
+## How to download the SIMI Mentoring Materials
+
+To download **all of the materials** to your local Desktop, you can click "Code" > "Download Zip" at the top of this page.
+
+To download **a single folder** from the repo, you can visit: https://download-directory.github.io/ and enter the link to the folder (e.g., https://github.com/mellamosummer/SIMI_Mentoring/tree/main/For_Program_Participants) to download the materials in zip file format.
+
+
 ### For program _participants_
 
 This folder contains a syllabus for the course and folders with materials for each week of the training. The weekly folders contain a "one-pager", session agenda, and any assigned readings/materials.
