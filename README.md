@@ -65,24 +65,24 @@ This folder contains agendas for the four individual sessions for training new S
 
 ```text
 For_Training_SIMI_Facilitators/
-├── Zoom for SIMI Tutorial.docx
-├── Facilitator Training Blurb + High-Level Agenda.docx
+├── Zoom for SIMI Tutorial
+├── Facilitator Training Blurb + High-Level Agenda
 ├── Facilitator Folder/
 │   └── Session Agendas/
-│       ├── Session 1: Intro.xlsx
-│       ├── Session 2: Zoom.xlsx
-│       ├── Session 3: Power.xlsx
-│       └── Session 4: Facilitation.xlsx
+│       ├── Session 1: Intro
+│       ├── Session 2: Zoom
+│       ├── Session 3: Power
+│       └── Session 4: Facilitation
 └── Participant Folder/
     └── Homework/
-        ├── Day 2 Homework Assignment.docx
-        ├── Day 2 Homework Signup Sheet.xlsx
-        ├── Session 1 Facilitator Guide: Orientation.docx
-        ├── Session 2 Facilitator Guide: Identity and its Intersections.docx
-        ├── Session 3 Facilitator Guide: Engaging in Empathic Conversations.docx
-        ├── Session 4 Facilitator Guide: Racialized Experiences in STEM.docx
-        ├── Session 5 Facilitator Guide: Color-Evasive Practices.docx
-        └── Session 6 Facilitator Guide: From Deficit to Asset-Based Mentoring.docx
+        ├── Day 2 Homework Assignment
+        ├── Day 2 Homework Signup Sheet
+        ├── Session 1 Facilitator Guide: Orientation
+        ├── Session 2 Facilitator Guide: Identity and its Intersections
+        ├── Session 3 Facilitator Guide: Engaging in Empathic Conversations
+        ├── Session 4 Facilitator Guide: Racialized Experiences in STEM
+        ├── Session 5 Facilitator Guide: Color-Evasive Practices
+        └── Session 6 Facilitator Guide: From Deficit to Asset-Based Mentoring
 ```
 ## Citation
 If you use these materials, please cite:
